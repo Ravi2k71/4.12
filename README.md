@@ -1,2 +1,2 @@
-# 4.12
- Centered Content
+# 4.8
+4.8 Activity (favicon)
