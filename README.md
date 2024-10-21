@@ -1,2 +1,2 @@
-# 4.8
-4.8 Activity (favicon)
+# 4.12
+4.12 Activity (center content)
